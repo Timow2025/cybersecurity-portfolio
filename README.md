@@ -19,11 +19,11 @@ This repository is the starting point for my cybersecurity portfolio. I’m buil
 
 ## Repository Guide
 
-The initial directory structure is in place. The descriptions below outline how I plan to organize future work; they do not represent completed projects.
+The repository includes a completed Hack The Box machine writeup alongside areas reserved for future projects.
 
 | Directory | Intended content |
 | --- | --- |
-| [`hackthebox/`](hackthebox/) | Reserved for future Hack The Box learning material. No machine writeups are included yet. |
+| [`hackthebox/`](hackthebox/) | Hack The Box learning material, including the [Nexus writeup](hackthebox/nexus/README.md) |
 | [`security-research/`](security-research/) | Lab experiments, technical notes, and explanations of security concepts |
 | [`tools-and-scripts/`](tools-and-scripts/) | Small utilities and scripts, with usage instructions and documented limitations |
 | [`assets/screenshots/`](assets/screenshots/) | Supporting screenshots and visual evidence for documented work |
