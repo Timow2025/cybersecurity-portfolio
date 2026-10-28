@@ -14,7 +14,7 @@
 | Difficulty | Not independently verified |
 | Machine page | [Nexus](https://app.hackthebox.com/machines/948) |
 | Author | [Timow2025](https://github.com/Timow2025) |
-| Completed on | Date not recorded in the available evidence |
+| Completed on | 2026-10-28 |
 | Published on | 2026-10-28 |
 | Retirement verified on | 2026-10-28 — [official HTB retirement record](https://labs.hackthebox.com/achievement/machine/3484863/948) |
 | Key techniques | Virtual host enumeration, exposed configuration files, installer abuse, PHP code execution, credential reuse, Git tree path traversal, privileged scheduled task abuse |
