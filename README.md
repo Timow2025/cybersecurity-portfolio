@@ -23,7 +23,7 @@ The repository includes completed Hack The Box machine writeups alongside areas 
 
 | Directory | Intended content |
 | --- | --- |
-| [`hackthebox/`](hackthebox/) | Hack The Box learning material, including the [Nexus](hackthebox/nexus/README.md) and [Cap](hackthebox/cap/README.md) writeups |
+| [`hackthebox/`](hackthebox/) | Hack The Box learning material, including the [Nexus](hackthebox/nexus/README.md), [Cap](hackthebox/cap/README.md), and [Orion](hackthebox/orion/README.md) writeups |
 | [`security-research/`](security-research/) | Lab experiments, technical notes, and explanations of security concepts |
 | [`tools-and-scripts/`](tools-and-scripts/) | Small utilities and scripts, with usage instructions and documented limitations |
 | [`assets/screenshots/`](assets/screenshots/) | Supporting screenshots and visual evidence for documented work |
